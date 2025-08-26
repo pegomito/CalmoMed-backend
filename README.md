@@ -7,7 +7,7 @@ Backend para o sistema CalmoMed, utilizando Node.js, Express, Sequelize e Postgr
 - Estrutura modular (controllers, models, rotas, middlewares, utils)
 - Integração com banco PostgreSQL via Sequelize
 
-## Rodar
+## Rodar o proj
 1. Instale as dependências:
    ```bash
    npm install
